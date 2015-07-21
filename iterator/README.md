@@ -4,6 +4,8 @@ Java Collection 都實作了 `iterator()` 方法，包括：ArrayList, Vector, L
 
 ### 用 for/in 語法
 
+```java
 for (Object obj: collecion) {
   //
 }
+```
